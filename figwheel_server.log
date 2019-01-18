@@ -537,3 +537,502 @@ notifying browser that file changed:  public/js/out/goog/deps.js
 notifying browser that file changed:  public/js/out/cljs_deps.js
 notifying browser that file changed:  public/js/out/foood/core.js
 Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.866 seconds.[0m
+notifying browser that file changed:  public/js/out/goog/deps.js
+notifying browser that file changed:  public/js/out/cljs_deps.js
+notifying browser that file changed:  public/js/out/foood/core.js
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.439 seconds.[0m
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.43 seconds.[0m
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.387 seconds.[0m
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.406 seconds.[0m
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.405 seconds.[0m
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.429 seconds.[0m
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.383 seconds.[0m
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.409 seconds.[0m
+notifying browser that file changed:  public/js/out/foood/core.js
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.404 seconds.[0m
+notifying browser that file changed:  public/js/out/foood/core.js
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.419 seconds.[0m
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "env/dev/cljs"] in 0.313 seconds.[0m
+[36m----  Could not Analyze  src/cljs/foood/core.cljs  ----[0m
+
+  [1mNo such namespace: clsjs.anime, could not locate clsjs/anime.cljs, clsjs/anime.cljc, or JavaScript source providing "clsjs.anime" [0m
+
+[36m----  Analysis Error : Please see src/cljs/foood/core.cljs  ----[0m
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "env/dev/cljs"] in 0.274 seconds.[0m
+[36m----  Could not Analyze  src/cljs/foood/core.cljs  ----[0m
+
+  [1mNo such namespace: clsjs.anime, could not locate clsjs/anime.cljs, clsjs/anime.cljc, or JavaScript source providing "clsjs.anime" [0m
+
+[36m----  Analysis Error : Please see src/cljs/foood/core.cljs  ----[0m
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "env/dev/cljs"] in 0.304 seconds.[0m
+[36m----  Could not Analyze  src/cljs/foood/core.cljs  ----[0m
+
+  [1mNo such namespace: clsjs.anime, could not locate clsjs/anime.cljs, clsjs/anime.cljc, or JavaScript source providing "clsjs.anime" [0m
+
+[36m----  Analysis Error : Please see src/cljs/foood/core.cljs  ----[0m
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.797 seconds.[0m
+notifying browser that file changed:  public/js/out/goog/deps.js
+notifying browser that file changed:  public/js/out/cljs_deps.js
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.474 seconds.[0m
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.462 seconds.[0m
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.431 seconds.[0m
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.409 seconds.[0m
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.398 seconds.[0m
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "env/dev/cljs"] in 0.288 seconds.[0m
+[36m----  Could not Read  src/cljs/foood/core.cljs   line:59 ----[0m
+
+  [1m/home/tkaden/code/foood.tkaden.net/src/cljs/foood/core.cljs [line 59, col 84] The map literal starting with :targets on line 59 column 21 contains 7 form(s). Map literals must contain an even number of forms.[0m
+
+  [36m57[0m  [36m(defn init! [][0m
+  [36m58[0m  [36m  (mount-root)[0m
+  [33m59[0m  [1m  (anime/anime (#js {:targets "#splash" :loop :translateY "20" :easing "easeInOut"})))[0m
+  [0m  [0m  [33m  /home/tkaden/code/foood.tkaden.net/src/cljs/foood/core.cljs [line 59, col 84] The map literal starting with :targets on line 59 column 21 contains 7 form(s). Map literals must contain an even number of forms.[0m
+
+[36m----  Reader Error : Please see src/cljs/foood/core.cljs  ----[0m
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.384 seconds.[0m
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.404 seconds.[0m
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.872 seconds.[0m
+notifying browser that file changed:  public/js/out/goog/deps.js
+notifying browser that file changed:  public/js/out/cljs_deps.js
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.402 seconds.[0m
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.456 seconds.[0m
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.432 seconds.[0m
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "env/dev/cljs"] in 0.276 seconds.[0m
+[36m----  Could not Analyze  src/cljs/foood/core.cljs  ----[0m
+
+  [1mInvalid :refer, var cljsjs.anime/anime does not exist [0m
+
+[36m----  Analysis Error : Please see src/cljs/foood/core.cljs  ----[0m
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "env/dev/cljs"] in 0.288 seconds.[0m
+[36m----  Could not Analyze  src/cljs/foood/core.cljs  ----[0m
+
+  [1mInvalid :refer, var cljsjs.anime/anime does not exist [0m
+
+[36m----  Analysis Error : Please see src/cljs/foood/core.cljs  ----[0m
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "env/dev/cljs"] in 0.289 seconds.[0m
+[36m----  Could not Analyze  src/cljs/foood/core.cljs  ----[0m
+
+  [1mInvalid :refer, var cljsjs.anime/anime does not exist [0m
+
+[36m----  Analysis Error : Please see src/cljs/foood/core.cljs  ----[0m
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "env/dev/cljs"] in 0.324 seconds.[0m
+[36m----  Could not Analyze  src/cljs/foood/core.cljs  ----[0m
+
+  [1mInvalid :refer, var cljsjs.anime/anime does not exist [0m
+
+[36m----  Analysis Error : Please see src/cljs/foood/core.cljs  ----[0m
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "env/dev/cljs"] in 0.296 seconds.[0m
+[36m----  Could not Analyze  src/cljs/foood/core.cljs  ----[0m
+
+  [1mInvalid :refer, var cljsjs.anime/anime does not exist [0m
+
+[36m----  Analysis Error : Please see src/cljs/foood/core.cljs  ----[0m
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "env/dev/cljs"] in 0.153 seconds.[0m
+[36m----  Could not Read  src/cljs/foood/core.cljs   line:66 ----[0m
+
+  [1m/home/tkaden/code/foood.tkaden.net/src/cljs/foood/core.cljs [line 66, col 1] Unexpected EOF while reading item 13 of list, starting at line 1 and column 1.[0m
+
+[36m----  Reader Error : Please see src/cljs/foood/core.cljs  ----[0m
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[36m----  Compiler Warning on   src/cljs/foood/core.cljs   line:59  column:4  ----[0m
+
+  [1mUse of undeclared Var foood.core/anime[0m
+
+  [36m55[0m  [36m  (r/render [home-page] (.getElementById js/document "app")))[0m
+  [36m56[0m  [36m[0m
+  [36m57[0m  [36m(defn init! [][0m
+  [36m58[0m  [36m  (mount-root)[0m
+  [33m59[0m  [1m  (anime (#js {:targets ".food-result"[0m
+  [0m  [0m  [33m   ^--- Use of undeclared Var foood.core/anime[0m
+  [36m60[0m  [36m                     :direction "alternate"[0m
+  [36m61[0m  [36m                     :loop true[0m
+  [36m62[0m  [36m                     :translateY "200"[0m
+  [36m63[0m  [36m                     :easing "easeInOutSine"}))[0m
+  [36m64[0m  [36m  )[0m
+
+[36m----  Compiler Warning : Please see src/cljs/foood/core.cljs  ----[0m
+[32mSuccessfully compiled build :app to "public/js/app.js" in 3.832 seconds.[0m
+notifying browser that file changed:  public/js/out/goog/deps.js
+notifying browser that file changed:  public/js/out/cljs_deps.js
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[36m----  Compiler Warning on   src/cljs/foood/core.cljs   line:59  column:4  ----[0m
+
+  [1mUse of undeclared Var foood.core/anime[0m
+
+  [36m55[0m  [36m  (r/render [home-page] (.getElementById js/document "app")))[0m
+  [36m56[0m  [36m[0m
+  [36m57[0m  [36m(defn init! [][0m
+  [36m58[0m  [36m  (mount-root)[0m
+  [33m59[0m  [1m  (anime (#js {:targets ".food-result"[0m
+  [0m  [0m  [33m   ^--- Use of undeclared Var foood.core/anime[0m
+  [36m60[0m  [36m                     :direction "alternate"[0m
+  [36m61[0m  [36m                     :loop true[0m
+  [36m62[0m  [36m                     :translateY "200"[0m
+  [36m63[0m  [36m                     :easing "easeInOutSine"}))[0m
+  [36m64[0m  [36m  )[0m
+
+[36m----  Compiler Warning : Please see src/cljs/foood/core.cljs  ----[0m
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.46 seconds.[0m
+notifying browser that file changed:  public/js/out/cljs_deps.js
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "env/dev/cljs"] in 0.162 seconds.[0m
+[36m----  Could not Analyze  src/cljs/foood/core.cljs   line:1  column:1  ----[0m
+
+  [1mOnly one :require form is allowed per namespace definition at line 1 src/cljs/foood/core.cljs[0m
+
+  [33m1[0m  [1m(ns foood.core[0m
+  [0m [0m  [33m^--- Only one :require form is allowed per namespace definition at line 1 src/cljs/foood/core.cljs[0m
+  [36m2[0m  [36m    (:use [clojure.string :only [capitalize]])[0m
+  [36m3[0m  [36m    (:require [reagent.core :as r])[0m
+  [36m4[0m  [36m    (:require [cljsjs.anime :refer [anime]]))[0m
+
+[36m----  Analysis Error : Please see src/cljs/foood/core.cljs  ----[0m
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "env/dev/cljs"] in 0.132 seconds.[0m
+[36m----  Could not Analyze  src/cljs/foood/core.cljs   line:1  column:1  ----[0m
+
+  [1mOnly one :require form is allowed per namespace definition at line 1 src/cljs/foood/core.cljs[0m
+
+  [33m1[0m  [1m(ns foood.core[0m
+  [0m [0m  [33m^--- Only one :require form is allowed per namespace definition at line 1 src/cljs/foood/core.cljs[0m
+  [36m2[0m  [36m    (:use [clojure.string :only [capitalize]])[0m
+  [36m3[0m  [36m    (:require [reagent.core :as r])[0m
+  [36m4[0m  [36m    (:require [cljsjs.anime :as anime]))[0m
+
+[36m----  Analysis Error : Please see src/cljs/foood/core.cljs  ----[0m
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "env/dev/cljs"] in 0.154 seconds.[0m
+[36m----  Could not Analyze  src/cljs/foood/core.cljs   line:1  column:1  ----[0m
+
+  [1mOnly one :use form is allowed per namespace definition at line 1 src/cljs/foood/core.cljs[0m
+
+  [33m1[0m  [1m(ns foood.core[0m
+  [0m [0m  [33m^--- Only one :use form is allowed per namespace definition at line 1 src/cljs/foood/core.cljs[0m
+  [36m2[0m  [36m    (:use [clojure.string :only [capitalize]])[0m
+  [36m3[0m  [36m    (:require [reagent.core :as r])[0m
+  [36m4[0m  [36m    (:use [cljsjs.anime :as anime]))[0m
+
+[36m----  Analysis Error : Please see src/cljs/foood/core.cljs  ----[0m
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "env/dev/cljs"] in 0.135 seconds.[0m
+[36m----  Could not Analyze  src/cljs/foood/core.cljs   line:1  column:1  ----[0m
+
+  [1mOnly :as, :refer and :rename options supported in :require / :require-macros; offending spec: [cljsjs.anime :only [anime]] at line 1 src/cljs/foood/core.cljs[0m
+
+  [33m1[0m  [1m(ns foood.core[0m
+  [0m [0m  [33m^--- Only :as, :refer and :rename options supported in :require / :require-macros; offending spec: [cljsjs.anime :only [anime]] at line 1 src/cljs/foood/core.cljs[0m
+  [36m2[0m  [36m    (:use [clojure.string :only [capitalize]])[0m
+  [36m3[0m  [36m    (:require [reagent.core :as r] [cljsjs.anime :only [anime]]))[0m
+
+[36m----  Analysis Error : Please see src/cljs/foood/core.cljs  ----[0m
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "env/dev/cljs"] in 0.148 seconds.[0m
+[36m----  Could not Analyze  src/cljs/foood/core.cljs   line:1  column:1  ----[0m
+
+  [1mOnly :as, :refer and :rename options supported in :require / :require-macros; offending spec: [cljsjs.anime :only [anime]] at line 1 src/cljs/foood/core.cljs[0m
+
+  [33m1[0m  [1m(ns foood.core[0m
+  [0m [0m  [33m^--- Only :as, :refer and :rename options supported in :require / :require-macros; offending spec: [cljsjs.anime :only [anime]] at line 1 src/cljs/foood/core.cljs[0m
+  [36m2[0m  [36m    (:use [clojure.string :only [capitalize]])[0m
+  [36m3[0m  [36m    (:require [reagent.core :as r] [cljsjs.anime :only [anime]]))[0m
+
+[36m----  Analysis Error : Please see src/cljs/foood/core.cljs  ----[0m
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "env/dev/cljs"] in 0.372 seconds.[0m
+[36m----  Could not Analyze  src/cljs/foood/core.cljs  ----[0m
+
+  [1mInvalid :refer, var cljsjs.anime/anime does not exist [0m
+
+[36m----  Analysis Error : Please see src/cljs/foood/core.cljs  ----[0m
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "env/dev/cljs"] in 0.288 seconds.[0m
+[36m----  Could not Analyze  src/cljs/foood/core.cljs  ----[0m
+
+  [1mInvalid :refer, var cljsjs.anime/anime does not exist [0m
+
+[36m----  Analysis Error : Please see src/cljs/foood/core.cljs  ----[0m
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[36m----  Compiler Warning on   src/cljs/foood/core.cljs   line:57  column:4  ----[0m
+
+  [1mUse of undeclared Var foood.core/anime[0m
+
+  [36m53[0m  [36m  (r/render [home-page] (.getElementById js/document "app")))[0m
+  [36m54[0m  [36m[0m
+  [36m55[0m  [36m(defn init! [][0m
+  [36m56[0m  [36m  (mount-root)[0m
+  [33m57[0m  [1m  (anime (#js {:targets ".food-result"[0m
+  [0m  [0m  [33m   ^--- Use of undeclared Var foood.core/anime[0m
+  [36m58[0m  [36m                     :direction "alternate"[0m
+  [36m59[0m  [36m                     :loop true[0m
+  [36m60[0m  [36m                     :translateY "200"[0m
+  [36m61[0m  [36m                     :easing "easeInOutSine"}))[0m
+  [36m62[0m  [36m  )[0m
+
+[36m----  Compiler Warning : Please see src/cljs/foood/core.cljs  ----[0m
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.868 seconds.[0m
+notifying browser that file changed:  public/js/out/goog/deps.js
+notifying browser that file changed:  public/js/out/cljs_deps.js
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[36m----  Compiler Warning on   src/cljs/foood/core.cljs   line:57  column:4  ----[0m
+
+  [1mUse of undeclared Var foood.core/anime[0m
+
+  [36m53[0m  [36m  (r/render [home-page] (.getElementById js/document "app")))[0m
+  [36m54[0m  [36m[0m
+  [36m55[0m  [36m(defn init! [][0m
+  [36m56[0m  [36m  (mount-root)[0m
+  [33m57[0m  [1m  (anime (#js {:targets ".food-result"[0m
+  [0m  [0m  [33m   ^--- Use of undeclared Var foood.core/anime[0m
+  [36m58[0m  [36m                     :direction "alternate"[0m
+  [36m59[0m  [36m                     :loop true[0m
+  [36m60[0m  [36m                     :translateY "200"[0m
+  [36m61[0m  [36m                     :easing "easeInOutSine"}))[0m
+  [36m62[0m  [36m  )[0m
+
+[36m----  Compiler Warning : Please see src/cljs/foood/core.cljs  ----[0m
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.463 seconds.[0m
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.472 seconds.[0m
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.416 seconds.[0m
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.434 seconds.[0m
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.424 seconds.[0m
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.401 seconds.[0m
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.456 seconds.[0m
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.44 seconds.[0m
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.417 seconds.[0m
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.407 seconds.[0m
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.397 seconds.[0m
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.397 seconds.[0m
+notifying browser that file changed:  public/js/out/foood/core.js
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.91 seconds.[0m
+notifying browser that file changed:  public/js/out/goog/deps.js
+notifying browser that file changed:  public/js/out/cljs_deps.js
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.463 seconds.[0m
+notifying browser that file changed:  public/js/out/foood/core.js
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.428 seconds.[0m
+notifying browser that file changed:  public/js/out/foood/core.js
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Notifying browser that CSS file changed: public/css/stylesheet.css
+Compiling build :app to "public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "public/js/app.js" in 0.435 seconds.[0m
+notifying browser that file changed:  public/js/out/foood/core.js

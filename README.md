@@ -1,2 +1,3 @@
 # foood.tkaden.net
-Food name generator. For @Dumb Phuck
+
+Food name generator. For my friend.

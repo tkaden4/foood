@@ -6,7 +6,8 @@
   :dependencies [[org.clojure/clojure "1.10.0"]
                  [org.clojure/clojurescript "1.10.439"]
                  [reagent "0.8.1"]
-                 [garden "1.3.5"]]
+                 [garden "1.3.5"]
+                 [cljsjs/anime "2.2.0-0"]]
 
   :plugins [[lein-cljsbuild "1.1.7"]
             [lein-figwheel "0.5.18"]
@@ -20,7 +21,7 @@
                      :source-paths ["src/clj"]
                      :stylesheet foood.css/screen
                      :compiler {
-                                :output-to "public/css/stylesheet.css"
+                                :output-to "docs/css/stylesheet.css"
                                 :pretty-print? false}}]}
 
   :clean-targets ^{:protect false}
@@ -28,19 +29,19 @@
    [:cljsbuild :builds :app :compiler :output-dir]
    [:cljsbuild :builds :app :compiler :output-to]]
 
-  :resource-paths ["public"]
+  :resource-paths ["docs"]
 
   :figwheel {:http-server-root "."
              :nrepl-port 7002
              :nrepl-middleware [cider.piggieback/wrap-cljs-repl]
-             :css-dirs ["public/css"]}
+             :css-dirs ["docs/css"]}
 
   :cljsbuild {:builds {:app
                        {:source-paths ["src/cljs" "env/dev/cljs"]
                         :compiler
                         {:main "foood.dev"
-                         :output-to "public/js/app.js"
-                         :output-dir "public/js/out"
+                         :output-to "docs/js/app.js"
+                         :output-dir "docs/js/out"
                          :asset-path   "js/out"
                          :source-map true
                          :optimizations :none
@@ -51,8 +52,8 @@
                        :release
                        {:source-paths ["src/cljs" "env/prod/cljs"]
                         :compiler
-                        {:output-to "public/js/app.js"
-                         :output-dir "public/js/release"
+                        {:output-to "docs/js/app.js"
+                         :output-dir "docs/js/release"
                          :asset-path   "js/out"
                          :optimizations :advanced
                          :pretty-print false}}}}

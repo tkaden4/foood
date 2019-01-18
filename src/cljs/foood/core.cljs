@@ -1,7 +1,6 @@
 (ns foood.core
     (:use [clojure.string :only [capitalize]])
-    (:require
-      [reagent.core :as r]))
+    (:require [reagent.core :as r] [cljsjs.anime]))
 
 (defonce foods
   {:fruits ["pear" "apple" "pineapple" "tomato"]
@@ -11,8 +10,7 @@
    :baked ["bread" "pastry" "cake"]})
 
 (defonce food-adjectives
-  {
-   :all ["just" "boiled" "carmelized" "roasted" "grilled" "par-boiled" "slow cooked"]
+  {:all ["just" "boiled" "carmelized" "roasted" "grilled" "slow-cooked"]
    :fruits []
    :vegetables []
    :meat ["pulled" "barbeque"]
@@ -40,18 +38,19 @@
    [:div#main-circle]])
 
 (defn home-page []
-  (let [food (r/atom nil)]
+  (let [food (r/atom (generate-food))]
     (fn []
-      [:div
+      [:div {:style {:text-align "center" :width "100vw"}}
        [splash-logo]
        [generate-button #(reset! food (generate-food))]
-       (if (some? @food)
-         [:div (food->str @food)]
-         [:div "no food"])])))
+       [:div.food-result.unselectable (food->str @food)]
+       ])))
 
 ;; Initialize app
 
 (defn mount-root []
-  (r/render [home-page] (.getElementById js/document "app")))
+  (r/render [home-page] (.getElementById js/document "app"))
+  (js/anime (clj->js {:targets "#splash" :translateY "-20" :easing "easeOutQuad"})))
 
-(defn init! [] (mount-root))
+(defn init! []
+  (mount-root))
